@@ -42,6 +42,6 @@
             <x-primary-button class="ms-3">
                 {{ __('Log in') }}
             </x-primary-button>
-        </div>
-    </form>
+        </div>
+    </form
 </x-guest-layout>
